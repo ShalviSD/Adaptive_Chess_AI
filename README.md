@@ -1,4 +1,4 @@
-# ♔Adaptive_Chess_AI
+# ♔ Adaptive_Chess_AI
 
 #An interactive, real-time chess bot that dynamically adapts to the player's ELO rating and inferred play style. Built using Stockfish, Google Vertex AI (Gemini), and Streamlit.
 
