@@ -1,4 +1,7 @@
-# Adaptive_Chess_AI
+# ♔Adaptive_Chess_AI
+
+#An interactive, real-time chess bot that dynamically adapts to the player's ELO rating and inferred play style. Built using Stockfish, Google Vertex AI (Gemini), and Streamlit.
+
 ## Overview
 
 The Adaptive Chess AI project introduces a new approach to computer chess by blending traditional rule-based analysis with the contextual understanding and natural language abilities of Large Language Models (LLMs). This aims to create an intelligent chess opponent and tutor that enhances learning through dynamic difficulty and insightful explanations. The system's core innovation is its dual analysis of the game, evaluating chess features to predict playing styles (Aggressive, Defensive, etc.) while the Gemini 2.0 Flash LLM independently assesses these styles. Comparing these analyses allows for more nuanced decision-making, and Gemini 2.0 Flash also generates human-readable explanations for moves, enriching the learning experience.
